@@ -17,3 +17,26 @@
     background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f);
     cursor: pointer;
 }
+.cat{
+    padding: 1% 5%;
+    margin: 2% 0;
+}
+.cat img{
+    width: 100px;
+    height: 90px;
+}
+.cat h1{
+    color: #fceae8;
+}
+.cat-1, .cat-2, .cat-3{
+    border-radius: 10px;
+}
+.cat-1{
+    background-image: linear-gradient(to right, rgb(255, 166, 2) 0%, rgb(250, 188, 72));
+}
+.cat-2{
+    background-image:linear-gradient(to right,#c2004a 0%, #fc2c7b );
+}
+.cat-3{
+    background-image:linear-gradient(to right,rgba(0, 0, 255, 0.712)  0%,rgb(13, 13, 253) );
+}
